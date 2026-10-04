@@ -1,0 +1,7 @@
+pettingzoo==1.23.1
+gymnasium
+torch
+numpy
+matplotlib
+pygame
+pandas
